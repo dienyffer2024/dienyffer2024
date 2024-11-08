@@ -6,15 +6,15 @@ Este repositório contém uma coleção de abrangente de scripts e notebooks uti
 
 ## Estrutura do Repositório 📑✨
 
-- **Python**: Scripts e notebooks para análise de dados, automação e visualização. Bibliotecas importantes como **Pandas** e **PySpark** foram utilizadas para manipulação e análise de dados em grande escala.
+- **Python_Geral**: Scripts e notebooks para análise de dados, automação e visualização. Bibliotecas importantes como **Pandas** e **PySpark** foram utilizadas para manipulação e análise de dados em grande escala.
 
-- **MongoDB**: Exemplos de conexão, consulta e inserção de dados em MongoDB.
-  
-- **Bucket**: Conexão, consultas, insights, transformação em DataFrames, tratamento de dados incosistêntes e criação de pasta no Google Cloud.
+- **Estatística**: Notebooks contendo explicações e exemplos de conceitos estatísticos aplicados em análise de dados.
 
 - **SQL**: Consultas e exemplos práticos de uso de SQL para análise de dados.
 
-- **Estatística**: Notebooks contendo explicações e exemplos de conceitos estatísticos aplicados em análise de dados.
+- **Banco_de_dados_MongoDB**: Exemplos de conexão, consulta e inserção de dados em MongoDB.
+  
+- **Bucket**: Conexão, consultas, insights, transformação em DataFrames, tratamento de dados incosistêntes e criação de pasta no Google Cloud.
 
 ## Como Usar 🔍
 
