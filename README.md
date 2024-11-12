@@ -16,6 +16,8 @@ Este repositório contém uma coleção de abrangente de scripts e notebooks uti
   
 - **Bucket**: Conexão, consultas, insights, transformação em DataFrames, tratamento de dados incosistêntes e criação de pasta no Google Cloud.
 
+- **Dashboards**: *(Em construção)* Gráficos criados para análises simples, no Looker Studio, Tableau e Power BI.
+
 ## Como Usar 🔍
 
 Cada diretório contém scripts e notebooks com instruçoes detalhadas sobre como utilizar os exemplos. Eles foram renomeados de acordo com o o conjunto de códigos que você encontrará nos notebooks criados. Para visualizar a versão original, basta clicar no link no início de cada Notebook ***"Open in Colab***.
